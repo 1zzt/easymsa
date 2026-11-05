@@ -1,4 +1,4 @@
-# MSA-Kit website test: fast_dedup
+# MSA-Kit website test: kmer_center
 
 Derived from malabz/MSA-Kit commit bbd5767a250654cb6b0c494444405e74bd115f02.
 This is an experimental DNA/RNA program for testing the EasyMSA journey.
