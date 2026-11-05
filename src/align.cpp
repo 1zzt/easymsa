@@ -1,4 +1,4 @@
-#define MODE 1
+#define MODE 3
 #include "internal.hpp"
 #include "msakit/core.hpp"
 
